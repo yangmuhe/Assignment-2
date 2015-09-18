@@ -11,3 +11,5 @@ The repo doesn't yet have a stylesheet. Create one and included with `index.html
 ##Position `div` elements##
 
 Using the `position` and `width` CSS settings, lay out the page so that it resembles the attached image.
+
+[https://cloud.githubusercontent.com/assets/13698981/9964399/0a14efb8-5dfe-11e5-813a-43ba5ccc8f74.jpg]
