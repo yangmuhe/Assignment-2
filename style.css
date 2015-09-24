@@ -1,0 +1,41 @@
+html, body, h1, h2, h3, h4, p, div, a, ul, li, span {
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;     /* This is what really matters.*/
+}
+.box{
+    height: 100px;
+}
+#red{
+    background: red;
+    height: 15%;
+}
+.parent{
+     position: relative;
+     height: 70%;
+ }
+#yellow{
+    background: yellow;
+    width: 33.3333%;
+    height: 100%;
+    float: left;
+}
+#green{
+    background: green;
+    width: 33.3333%;
+    height: 100%;
+    float: left;
+}
+#blue{
+    background: blue;
+    width: 33.3333%;
+    height: 100%;
+    float: left;
+}
+#purple{
+    background: purple;
+    height: 15%;
+    clear: both;
+}
